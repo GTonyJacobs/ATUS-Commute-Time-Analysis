@@ -10,7 +10,7 @@ To investigate **Socioeconomic Factors and Commute Time**, we were able to look 
 
 We obtained this sample using the following SQL query, run in BigQuery. In this query, we first filter for commuting adults with full-time jobs, then calculate total commute time, and then select the sample for export and analysis. We obtained a sample of N=1574 respondents. After uploading the sample to a spreadsheet, we performed additional minor filtering for anomalies, which we discuss in our data cleaning document.
 
-* [Query #1]()
+* [Query #1](/../scripts/SQL_query_1)
 
 ## Second sample
 
@@ -20,7 +20,7 @@ The following SQL query does the same filtering as the previous one, and also ca
 
 With this query, we initially obtained a sample of N=1228 respondents.
 
-* [Query #2]()
+* [Query #2](/../scripts/SQL_query_2)
 
 ## Third Sample
 
@@ -30,4 +30,4 @@ In the following query, we begin by performing the same filtering and calculatio
 
 Working with this more restricted subset yielded a smaller sample, of N=533 respondents.
 
-* [Query #3]()
+* [Query #3](/../scripts/SQL_query_3)
