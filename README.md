@@ -1,8 +1,12 @@
 # ATUS-Commute-Time-Analysis
 
-* [One-page summary of key results](/docs/ATUS_Commuting_Study_Exec_Summary.pdf)
+## Summary Presentation
 
-## Introduction
+* [Click here for a one-page summary of key results](/docs/ATUS_Commuting_Study_Exec_Summary.pdf)
+
+## Full Report
+
+### Introduction
 
 In this report, we use data from the 2021 American Time Use Survey (ATUS) to analyze the role that commute time – time spent traveling to and from work – plays in the lives of Americans.
 
@@ -14,9 +18,15 @@ After that, we focus more closely on the quality of a commute over its quantity.
 
 An obvious way that commuting might affect one's life is that the hour you spend getting to work is another hour you could have spent sleeping! We look in detail at how sleep time is affected by commuting, both in terms of the length of the trip and how much stress it causes the commuter.
 
-## Detailed Content
+### Table of Contents
 
 * [Questions for Analysis](/docs/Questions_for_analysis.md) – Here, we state precise questions that we can ask of the data, outlining our four analyses.
 * [Data Source and Collection](/docs/Discussion_of_data_source.md) – Here, we talk about our data source, the ATUS, including details about its structure on the Bureau of Labor Statistics' website, and how we obtained it and its supporting documentation.
-* [Data Preparation](/docs/Discussion_of_queries.md) – Here, we talk about how the ATUS data was queried to obtain relevant samples for each of our questions. Included are the SQL queries that we used.
-* Item
+* [Data Extraction](/docs/Discussion_of_queries.md) – Here, we talk about how the ATUS data was queried to obtain relevant samples for each of our questions. Included are the SQL queries that we used.
+* [Data Preparation and Cleaning](/docs/Preparation_and_cleaning.md)
+* Analyses and Results:
+  * Socioeconomic Factors and Commute Time – ([Summary](/docs/Analysis_1_summary.md))([Details](/docs/Analysis_1_details.md))
+  * Commute Time and Well-Being – ([Summary](/docs/Analysis_2_summary.md))([Details](/docs/Analysis_2_details.md))
+  * Commuting Stress and Well-Being – ([Summary](/docs/Analysis_3_summary.md))([Details](/docs/Analysis_3_details.md))
+  * Commuting and Sleep – ([Summary](/docs/Analysis_4_summary.md))([Details](/docs/Analysis_4_details.md))
+* [Discussion](/docs/Final_discussion.md)
