@@ -1,4 +1,7 @@
 # ATUS-Commute-Time-Analysis
+
+* [One-page summary of key results](/docs/ATUS_Commuting_Study_Exec_Summary.pdf)
+
 In this report, we use data from the 2021 American Time Use Survey (ATUS) to analyze the role that commute time – time spent traveling to and from work – plays in the lives of Americans.
 
 First, we investigate factors that influence commuting. Who spends a lot of time traveling to work, and why? Are those long trips about making more money? Are they about having second jobs? Do such factors mean more in the country or in the city? Do they mean more for men or for women?
