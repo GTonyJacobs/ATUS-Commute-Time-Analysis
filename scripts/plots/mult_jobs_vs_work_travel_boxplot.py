@@ -35,7 +35,7 @@ plt.xlabel('Multiple Job Status (0 = No, 1 = Yes)', fontsize=12)
 plt.ylabel('Work Travel Time (minutes)', fontsize=12)
 
 # Save the plot as a .png file
-plt.savefig(r'C:\Users\tony\Desktop\Tony\ATUS\work_travel_boxplot.png')
+plt.savefig(r'C:\Users\tony\Desktop\Tony\ATUS\mult_jobs_vs_work_travel_boxplot.png')
 
 # Show the plot
 plt.show()
