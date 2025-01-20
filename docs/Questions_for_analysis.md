@@ -1,12 +1,12 @@
 # Questions for Analysis
 
 #### 1. Socioeconomic Factors and Commute Time
-Which socioeconomic factors are correlated with longer and shorter commute times? We investigate how commute time is influenced by age, income level, and having multiple jobs, as well as considering the possible modifying effects of sex and metropolitan status.
+Which socioeconomic factors are correlated with longer and shorter commute times? We investigate how commute time is influenced by age, income level, and having multiple jobs, as well as considering whether this influence differs according to sex and metropolitan status.
 
 ([Summary](/docs/Analysis_1_summary.md))([Details](/docs/Analysis_1_details.md))
    
 #### 2. Commute Time and Well-Being
-How does total commute time relate to various well-being factors? We study the relation between total commute time and five different outcome variables: life rating, general health, and average reported levels of happiness, sadness, and stress.
+How does commute time relate to various well-being factors? We study the relation between total commute time and five different outcome variables: life rating, general health, and average reported levels of happiness, sadness, and stress.
 
 ([Summary](/docs/Analysis_2_summary.md))([Details](/docs/Analysis_2_details.md))
 
@@ -16,6 +16,6 @@ How does the stress level of commuting correlate with commuters' life ratings, g
 ([Summary](/docs/Analysis_3_summary.md))([Details](/docs/Analysis_3_details.md))
 
 #### 4. Commuting and Sleep
-How does commuting affect sleep? We examine the amount of sleep that respondents reported in 24 hours, investigating the effects of total commute time and of reported commuting stress.
+How does commuting affect sleep? We examine the amount of sleep that respondents reported in 24 hours, investigating the effects of commute time as well as reported commuting stress.
 
 ([Summary](/docs/Analysis_4_summary.md))([Details](/docs/Analysis_4_details.md))
