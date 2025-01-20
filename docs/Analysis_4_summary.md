@@ -8,4 +8,4 @@ Running this analysis, we find that most variance in sleep time is due to factor
 
 However, when it comes to explaining that 1.36%, the relationships that are present are quite clear. Commute time is, once again, not the factor that matters, with no significant correlation between commute time and sleep time. However, those who rated work travel as stressful slept an average of 22.5 minutes less than those who rated it as low-stress.
 
-![Side-by-side boxplots of sleep time for the two groups: commute stress=0 and commute stress=1. There is a visible decrease in sleep time for the group with stressful commutes.](/images/sleep_time_vs_commute_stress.png)
+![Side-by-side boxplots of sleep time for the two groups: commute stress=0 and commute stress=1. There is a visible decrease in sleep time for the group with stressful commutes.](/images/sleep_time_vs_commute_stress_boxplot.png)
