@@ -33,4 +33,4 @@ Overall, we find that the socioeconomic factors we tested have little influence 
   
 * **Among residents of metropolitan areas, having multiple jobs is correlated with slightly more work travel**, with multiple-job workers traveling an average of 7.5 minutes longer than single-job workers.
   
-  ![Boxplots of work travel by multiple job status for metropolitan residents](/images/mult_jobs_vs_work_travel.png)
+  ![Boxplots of work travel by multiple job status for metropolitan residents](/images/mult_jobs_vs_work_travel_boxplot.png)
