@@ -23,7 +23,7 @@ An obvious way that commuting might affect one's life is that the hour you spend
 * [Questions for Analysis](/docs/Questions_for_analysis.md) – Here, we state precise questions that we can ask of the data, outlining our four analyses.
 * [Data Source and Collection](/docs/Discussion_of_data_source.md) – Here, we talk about our data source, the ATUS, including details about its structure on the Bureau of Labor Statistics' website, and how we obtained it and its supporting documentation.
 * [Data Extraction](/docs/Discussion_of_queries.md) – Here, we talk about how the ATUS data was queried to obtain relevant samples for each of our questions. Included are the SQL queries that we used.
-* [Data Preparation and Cleaning](/docs/Preparation_and_cleaning.md)
+* [Data Cleaning and Preparation](/docs/Preparation_and_cleaning.md) – Here we describe the steps we took to make the extracted data ready to answer our questions. In particular, we had to work around some missing values, and transform some variables for cleaner analysis.
 * Analyses and Results:
   * Socioeconomic Factors and Commute Time – ([Summary](/docs/Analysis_1_summary.md))([Details](/docs/Analysis_1_details.md))
   * Commute Time and Well-Being – ([Summary](/docs/Analysis_2_summary.md))([Details](/docs/Analysis_2_details.md))
