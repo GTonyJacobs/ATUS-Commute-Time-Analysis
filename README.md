@@ -16,6 +16,7 @@ An obvious way that commuting might affect one's life is that the hour you spend
 
 ## Detailed Content
 
+* [Questions for Analysis](/docs/Questions_for_analysis.md)
 * [Data Source and Collection](/docs/Discussion_of_data_source.md) – Here, we talk about our data source, the ATUS, including details about its structure on the Bureau of Labor Statistics' website, and how we obtained it and its supporting documentation
 * [Data Preparation](/docs/Discussion_of_queries.md) – Here, we talk about how the ATUS data was queried to obtain relevant samples for each of our questions. Included are the SQL queries that we used.
 * Item
