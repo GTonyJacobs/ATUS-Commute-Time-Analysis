@@ -29,4 +29,4 @@ An obvious way that commuting might affect one's life is that the hour you spend
   * Commute Time and Well-Being – ([Summary](/docs/Analysis_2_summary.md))([Details](/docs/Analysis_2_details.md))
   * Commuting Stress and Well-Being – ([Summary](/docs/Analysis_3_summary.md))([Details](/docs/Analysis_3_details.md))
   * Commuting and Sleep – ([Summary](/docs/Analysis_4_summary.md))([Details](/docs/Analysis_4_details.md))
-* [Discussion](/docs/Final_discussion.md)
+* [Discussion and Conclusions](/docs/Final_discussion.md)
