@@ -26,7 +26,7 @@ An obvious way that commuting might affect one's life is that the hour you spend
 * [Data Cleaning and Preparation](/docs/Preparation_and_cleaning.md) – Here we describe the steps we took to make the extracted data ready to answer our questions. In particular, we had to work around some missing values, and transform some variables for cleaner analysis.
 * Analyses and Results:
   * Socioeconomic Factors and Commute Time – [Analysis 1 Summary](/docs/Analysis_1_summary.md)
-  * Commute Time and Well-Being – [Analysis 2 Summary](/docs/Analysis_2_summary.md))([Details](/docs/Analysis_2_details.md)
-  * Commuting Stress and Well-Being – [Analysis 3 Summary](/docs/Analysis_3_summary.md))([Details](/docs/Analysis_3_details.md)
-  * Commuting and Sleep – [Analysis 4 Summary](/docs/Analysis_4_summary.md))([Details](/docs/Analysis_4_details.md)
+  * Commute Time and Well-Being – [Analysis 2 Summary](/docs/Analysis_2_summary.md)
+  * Commuting Stress and Well-Being – [Analysis 3 Summary](/docs/Analysis_3_summary.md)
+  * Commuting and Sleep – [Analysis 4 Summary](/docs/Analysis_4_summary.md)
 * [Discussion and Conclusions](/docs/Final_discussion.md)
